@@ -1,0 +1,3 @@
+# Set the default handler
+AddType application/x-httpd-php5 .html .htm
+#DirectoryIndex index.php index.html index.htm
